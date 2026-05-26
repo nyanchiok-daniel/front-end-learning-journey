@@ -1,1 +1,2 @@
-learning frontend development through supersimpleev in youtube currently studying html and css.
+This repo contains my daily frontend learning journey  using HTML and CSS.
+I upload daily each lesson as I progress.
